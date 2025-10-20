@@ -1,0 +1,36 @@
+[33mcommit e37db4947804baa5887e4c4757314d9c9d62cf2f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 6cfac98 33afa13
+Author: Martin Hansman <mokamartin3@gmail.com>
+Date:   Mon Oct 20 08:37:03 2025 +0300
+
+    merged
+
+[33mcommit 33afa134a30701eaf3f22acc7e803ce402cf133b[m
+Author: Martin Hansman <mokamartin3@gmail.com>
+Date:   Mon Oct 20 08:27:51 2025 +0300
+
+    Add feature line 2
+
+[33mcommit 6cfac98df5ce4eb15fd0443f1c17b38ac266f613[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Martin Hansman <mokamartin3@gmail.com>
+Date:   Sun Oct 19 19:20:48 2025 +0300
+
+    Add main line 1
+
+[33mcommit e8b4133c1258a55fd3e50036b897bae9356ad412[m[33m ([m[1;31morigin/feature[m[33m)[m
+Author: Martin Hansman <mokamartin3@gmail.com>
+Date:   Sun Oct 19 19:04:37 2025 +0300
+
+    Add future line 1
+
+[33mcommit 6f889e0a1861be1acd82bc4fecc56ed32da5e8c1[m
+Author: Martin Hansman <mokamartin3@gmail.com>
+Date:   Mon Oct 6 09:02:31 2025 +0300
+
+    Add title to readme
+
+[33mcommit 42c4178a01f8dc31c7a48a979013ee9190381161[m
+Author: Martin Hansman <mokamartin3@gmail.com>
+Date:   Mon Oct 6 08:44:30 2025 +0300
+
+    Add readme
